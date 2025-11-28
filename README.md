@@ -34,9 +34,9 @@ Barra de búsqueda integrada para filtrar la lista de dispositivos detectados po
 
 El proyecto requiere **Python 3.x** y las siguientes librerías externas con sus versiones específicas:
 
-| Módulo | Versión | Descripción |
+| Módulo            | Versión    | Descripción                                                  |
 | :---------------- | :--------- | :----------------------------------------------------------- |
-| `ttkbootstrap`    | `(Última)` | Estilos modernos para Tkinter.                               |
+| `ttkbootstrap`    | `1.19.0`   | Estilos modernos para Tkinter.                               |
 | `hidapi`          | `0.14.0`   | Comunicación con dispositivos HID.                           |
 | `pyusb`           | `1.2.1`    | Acceso a dispositivos USB (requiere backend libusb).         |
 | `pyserial`        | `3.5`      | Comunicación con puertos serie.                              |
