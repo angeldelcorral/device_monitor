@@ -20,7 +20,7 @@ from utils import ensure_dir
 # central queue to receive events from workers
 EVENT_QUEUE = queue.Queue()
 
-APP_TITLE = "Device Monitor - Tk (ttkbootstrap) - Safe Use Only"
+APP_TITLE = "Device Monitor - Safe Use Only"
 
 
 class DeviceMonitorApp:

@@ -31,5 +31,5 @@ jobs:
     - name: Upload Build Artifact
       uses: actions/upload-artifact@v4
       with:
-        name: DeviceMonitor-Windows-Exe
+        name: DeviceMonitor-Windows
         path: dist/DeviceMonitor.exe
