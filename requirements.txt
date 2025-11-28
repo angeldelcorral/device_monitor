@@ -1,0 +1,11 @@
+tk
+ttkbootstrap
+hidapi==0.14.0
+pyusb==1.2.1
+pyserial==3.5
+keyboard==0.13.5
+mouse==0.7.1
+matplotlib==3.8.1
+Pillow==10.3.0
+python-dotenv==1.0.1
+requests==2.32.3
